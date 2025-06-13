@@ -71,9 +71,6 @@ The core idea behind this project is to leverage the computational power and vis
 * Ensure the VEX V5 Brain program is running and ready to receive commands.
 
 ---
-## Contributing
-
-We welcome contributions to this project! If you have suggestions for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
 
 ---
 ## License
